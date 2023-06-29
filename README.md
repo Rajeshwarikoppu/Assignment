@@ -1,9 +1,21 @@
 This ZIP file consists of project functional login flow implemented using Node.js, MongoDB integration for storing and retrieving user information.
+
+
 This Project is created using the softwares : React.js ^18.2.0 and Express.js ^4.18.2 
+
+
 This Project consists of Login Page and Registration page using Reacts.js for frontend, Node.js for the backend, and MongoDB for the database.
+
+
 start command for frontend: npm start
+
+
 start command for backend: node app.js
+
+
 To change the MongoDB URL: go to mongo.js in the project folder and change in mongoose.connect() function.
+
+
 To install all dependencies : npm i
 
 # Getting Started with Create React App
